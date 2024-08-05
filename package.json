@@ -13,7 +13,6 @@
   "name": "duffettserver",
   "version": "1.0.0",
   "description": "duffettpaintingbackend",
-  "main": "index.js",
   "author": "Bill Duffett",
   "license": "ISC"
 }
